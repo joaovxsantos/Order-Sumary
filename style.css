@@ -1,0 +1,38 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-image: url(./images/pattern-background-desktop.svg);
+    /* background-repeat:no-repeat; */
+
+    
+}
+
+
+.container{
+    max-width: 300px;
+    background-color: white;
+    margin: auto;
+    margin-top: 4rem;
+    /* padding: 1rem; */
+    border-radius: 20px;
+}
+
+
+.img1{
+    max-width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.content2{
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    width: 55%;
+    background-color: purple;
+    display: flex;
+    align-items: center;
+    justify-items: flex-end;
+}
