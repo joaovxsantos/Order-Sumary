@@ -65,10 +65,12 @@ button {
   border-radius: 10px;
   background-color: hsl(245, 75%, 52%);
   color: hsl(225, 100%, 98%);
+  cursor: pointer;
 }
 
 #p3 {
   color: hsl(224, 23%, 55%);
+  cursor: pointer;
 }
 
 #p4 {
@@ -78,7 +80,8 @@ button {
   color: hsl(224, 23%, 55%);
 }
 
-#p5{
-    color: hsl(245, 75%, 52%);
-    text-decoration: underline;
+#p5 {
+  color: hsl(245, 75%, 52%);
+  text-decoration: underline;
+  cursor: pointer;
 }
